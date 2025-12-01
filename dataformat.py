@@ -1,4 +1,5 @@
 import pandas
+import numpy as np
 
 # clean the following xlsx file
 # only select the rows where the Settlement Point Name = "LZ_AEN"
